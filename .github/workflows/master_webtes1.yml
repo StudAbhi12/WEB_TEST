@@ -50,4 +50,4 @@ jobs:
           app-name: 'WEBTES1'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E48E0909E7F942EAA8C91B0615940025 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_38CD70AC939449C7A4846CEADCC91845 }}
